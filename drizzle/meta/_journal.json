@@ -1,0 +1,153 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1773024380728,
+      "tag": "0000_tough_odin",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1773035984107,
+      "tag": "0001_narrow_vector",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1773037113731,
+      "tag": "0002_dapper_exiles",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1773038909083,
+      "tag": "0003_spotty_hiroim",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1773041549149,
+      "tag": "0004_secret_doctor_strange",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1773042271431,
+      "tag": "0005_stale_mach_iv",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1773043298767,
+      "tag": "0006_wandering_rhino",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1773044102269,
+      "tag": "0007_chilly_starbolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "5",
+      "when": 1773045042450,
+      "tag": "0008_handy_tattoo",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "5",
+      "when": 1773045318799,
+      "tag": "0009_foamy_johnny_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "5",
+      "when": 1773045788093,
+      "tag": "0010_sparkling_havok",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "5",
+      "when": 1773049910077,
+      "tag": "0011_strong_spacker_dave",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "5",
+      "when": 1773051163317,
+      "tag": "0012_productive_microbe",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "5",
+      "when": 1773051750058,
+      "tag": "0013_special_terrax",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "5",
+      "when": 1773053615128,
+      "tag": "0014_friendly_gorgon",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "5",
+      "when": 1773055020206,
+      "tag": "0015_brown_silvermane",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "5",
+      "when": 1773056469064,
+      "tag": "0016_misty_lyja",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "5",
+      "when": 1773059361354,
+      "tag": "0017_faithful_venom",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "5",
+      "when": 1773060102150,
+      "tag": "0018_faulty_human_robot",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "5",
+      "when": 1773108576397,
+      "tag": "0019_violet_calypso",
+      "breakpoints": true
+    },
+    {
+      "idx": 20,
+      "version": "5",
+      "when": 1773187245677,
+      "tag": "0020_condemned_shadowcat",
+      "breakpoints": true
+    }
+  ]
+}

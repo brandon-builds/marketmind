@@ -1,0 +1,1 @@
+ALTER TABLE `ai_predictions` MODIFY COLUMN `horizon` enum('1D','7D','30D','60D') NOT NULL;

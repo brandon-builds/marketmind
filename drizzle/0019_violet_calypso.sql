@@ -1,0 +1,2 @@
+ALTER TABLE `ingested_signals` MODIFY COLUMN `source` enum('reddit','yahoo_finance','rss_news','twitter','twitter_vip','sec_edgar','fred_macro','polymarket','stocktwits','cboe_vix','google_trends','podcast_youtube','congressional') NOT NULL;--> statement-breakpoint
+ALTER TABLE `ingested_signals` MODIFY COLUMN `signalType` enum('price_data','social_mention','news_headline','volume_spike','fundamental','insider_trade','macro_indicator','prediction_market','volatility','trend_signal','podcast_episode','congressional_trade');
